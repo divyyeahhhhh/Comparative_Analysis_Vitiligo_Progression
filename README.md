@@ -21,7 +21,7 @@ Vitiligo is a skin condition characterized by the loss of skin color in patches.
 
 ## Dataset
 
-The dataset used in this project consists of dermatological images of vitiligo-affected and healthy skin. It is organized into training and validation sets.
+The dataset used in this project consists of dermatological images of vitiligo-affected and healthy skin. It is organized into training and validation sets. Data was acquired from kaggle (https://www.kaggle.com/datasets/zienabesam/vitiligo-dataset)
 
 ## Preprocessing
 
